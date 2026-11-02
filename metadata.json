@@ -1,0 +1,6 @@
+{
+  "name": "Pitești Bazar",
+  "description": "Anunțuri gratuite Pitești, Mioveni și Curtea de Argeș. Cumpără și vinde simplu și rapid ca pe OLX.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
